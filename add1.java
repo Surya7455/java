@@ -12,7 +12,7 @@ class Add
         byte by =4;
         float f =4.4f;
         double d= 45;
-        char c = '' ;
+        char c = 'k' ;
         boolean b =true;
        
 
